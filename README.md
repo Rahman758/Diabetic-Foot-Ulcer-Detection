@@ -12,22 +12,14 @@ This project also explores the potential for remote health monitoring and integr
 
 The combination of sensor technology, machine learning, and biomedical modeling aims to provide a practical solution to one of the most common complications in diabetic patients. The system contributes to proactive healthcare management by supporting early intervention, improving patient outcomes, and reducing the burden on medical infrastructure.
 
-Key Features:
+**Key Features:**
+
 🧠 AI & Deep Learning Models for image-based ulcer detection and health data analysis
-
-📷 Multisensor Setup to measure:
-
-Foot pressure and temperature (for DFU detection)
-
-Heart rate using ESP32 + pulse sensor
-
-Temperature, humidity, and pressure via DHT22/BMP280
-
-BMI calculation from user data
-
-⚙️ Sensor Design using COMSOL for foot pressure detection
-
-🛰️ IoT Integration for real-time health monitoring
-
-📊 Data analysis and prediction for early intervention
-
+**📷 Multisensor Setup to measure:**
+      Foot pressure and temperature (for DFU detection)
+      Heart rate using ESP32 + pulse sensor
+      Temperature, humidity, and pressure via DHT22/BMP280
+      BMI calculation from user data
+**⚙️ Sensor Design using COMSOL for foot pressure detection**
+**🛰️ IoT Integration for real-time health monitoring**
+**📊 Data analysis and prediction for early intervention**
