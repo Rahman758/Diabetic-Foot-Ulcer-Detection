@@ -16,10 +16,17 @@ The combination of sensor technology, machine learning, and biomedical modeling 
 
 🧠 AI & Deep Learning Models for image-based ulcer detection and health data analysis
 **📷 Multisensor Setup to measure:**
+
       Foot pressure and temperature (for DFU detection)
+      
       Heart rate using ESP32 + pulse sensor
+      
       Temperature, humidity, and pressure via DHT22/BMP280
+      
       BMI calculation from user data
+      
 **⚙️ Sensor Design using COMSOL for foot pressure detection**
+
 **🛰️ IoT Integration for real-time health monitoring**
+
 **📊 Data analysis and prediction for early intervention**
